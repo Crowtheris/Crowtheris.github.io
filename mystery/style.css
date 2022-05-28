@@ -1,0 +1,14 @@
+* {
+    --bg-main: #000;
+    --text-main: #a20aee;
+}
+
+body {
+    background-color: #000;
+    color: var(--text-main);
+}
+
+marquee {
+    font-family: Arial; font-style: italic; font-weight: bold;
+    font-size: 69px;
+}

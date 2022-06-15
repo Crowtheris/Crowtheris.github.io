@@ -3,6 +3,7 @@
 "hi this is a string"
 'S'
 ==
+
 else
 _G
 setnamecallmethod
